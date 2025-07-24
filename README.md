@@ -2,7 +2,7 @@
 
 A desktop-based music player built using **Tkinter**, **Pygame**, and **Librosa**, featuring advanced audio transformations like pitch shifting, white noise addition, echo, time stretching, and waveform visualization.
 
-![screenshot](preview.png)
+![screenshot](mp3.png)
 
 ---
 
